@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jk2509
 - 👀 I’m interested in Boats
-- 🌱 I’m currently learning HTML, CSS, PYTHON
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Phone
 - 😄 Pronouns: He/Him
