@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jk2509
-- 👀 I’m interested in Boats
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me Phone
+- 📫 How to reach me - Phone
 - 😄 Pronouns: He/Him
 
 
