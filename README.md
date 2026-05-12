@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jk2509
-- 📫 How to reach me - Phone
+- 📫 How to reach me - mail
 - 😄 Pronouns: He/Him
 
 
